@@ -27,6 +27,7 @@ ReportLab: https://www.reportlab.com/docs/reportlab-userguide.pdf
 Visual Studio Code: https://code.visualstudio.com/
 
 ##Project WorkFlow
+
 Epic 1: Environment Setup
 
 Story 1: Python Environment and Dependency Installation
