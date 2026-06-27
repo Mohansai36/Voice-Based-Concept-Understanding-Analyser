@@ -4,6 +4,7 @@ The following ER Diagram represents the database structure of the Voice-Based Co
 
 ![Entity Relationship Diagram](docs/Entity_Relationship_Diagram.png)
 
+#Links
 The VBCUA system was developed using Python and modern AI/ML libraries for speech processing, semantic analysis, web application development, and report generation. Key technologies include FastAPI, Streamlit, Librosa, Whisper, Sentence-BERT, ReportLab, and Visual Studio Code for development support.
 
 References:
@@ -24,7 +25,7 @@ ReportLab: https://www.reportlab.com/docs/reportlab-userguide.pdf
 
 Visual Studio Code: https://code.visualstudio.com/
 
-
+#Project WorkFlow
 Epic 1: Environment Setup
 
 Story 1: Python Environment and Dependency Installation
